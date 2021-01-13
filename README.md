@@ -19,3 +19,14 @@
 			<td align="center"><img src="https://i.imgur.com/ZwcK1xV.jpg"  width=100px;"><br /><sub><b>Akash Shrivastava</b></sub><br/><a href="https://github.com/Akash1362000">👨‍💻🚴‍♂️📸</a></td>
 		</tr>
 </table>
+
+## Development 👨‍💻
+
+Note: Make sure you have Spark AR Studio v90 or above. If you don't have Spark AR Studio, download it from [here](https://sparkar.facebook.com/ar-studio/download/)!
+
+Environment Setup 🚀
+
+`$ git clone https://github.com/Akash1362000/Ghost-Filter.git`
+
+`$ cd Ghost-Filter/`
+
