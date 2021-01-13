@@ -12,14 +12,6 @@
 
 ### Checkout the live filter on ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [here](https://www.instagram.com/ar/1303042073214700/)! 👻
 
-### Meet the Developer ✨🌟
-
-<table>
-		<tr>
-			<td align="center"><img src="https://i.imgur.com/ZwcK1xV.jpg"  width=100px;"><br /><sub><b>Akash Shrivastava</b></sub><br/><a href="https://github.com/Akash1362000">👨‍💻🚴‍♂️📸</a></td>
-		</tr>
-</table>
-
 ## Development 👨‍💻
 
 Note: Make sure you have Spark AR Studio v90 or above. If you don't have Spark AR Studio, download it from [here](https://sparkar.facebook.com/ar-studio/download/)!
