@@ -13,19 +13,19 @@
 ---
 ### Checkout the live filter on Instagram [here](https://www.instagram.com/ar/1303042073214700/)! 👻
 
-### Watch the demo [here](https://www.youtube.com/watch?v=JFqA-id7xwI)!
+### Watch the demo [here](https://www.youtube.com/watch?v=JFqA-id7xwI)! 🎥
 ---
 
 ### Contents:
 
-- [Preview](#preview-) 🎥
+- [Preview](#preview-) 🤳
 - [Development](#development-) 👨‍💻
 - [Environment Setup](#environment-setup-) 🚀
 - [How does this filter work ?](#how-does-this-filter-work-?-) 🤔
 
 ---
 
-### Preview 👻
+### Preview 👻🤳
 
 ![Ghost Effect](https://i.imgur.com/xT1WPZV.jpg)
 
