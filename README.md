@@ -25,7 +25,7 @@
 
 ### Demo 👻
 
-![Ghost Effect](https://i.imgur.com/vgVaVam.gif)
+![Ghost Effect](https://i.imgur.com/xT1WPZV.jpg)
 
 ### Development 👨‍💻
 
