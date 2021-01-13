@@ -12,7 +12,15 @@
 
 ### Checkout the live filter on Instagram [here](https://www.instagram.com/ar/1303042073214700/)! 👻
 
-## Development 👨‍💻
+### Contents:
+
+- [Demo](#demo-) 🎥
+- [Development](#development-) 👨‍💻
+- Environment Setup 🚀
+- How does this filter work 🤔 ?
+- Demo 🎥
+
+### Development 👨‍💻
 
 **Note**: Make sure you have Spark AR Studio v90 or above. If you don't have Spark AR Studio, download it from [here](https://sparkar.facebook.com/ar-studio/download/)!
 
