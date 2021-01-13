@@ -23,6 +23,7 @@
 - [Environment Setup](#environment-setup-) 🚀
 - [How does this filter work ?](#how-does-this-filter-work-?-) 🤔
 - [Insights](#insights-) 📊
+- [Contributors](#contributors-) 😀
 - [License](#license-) ✍
 
 ---
@@ -54,6 +55,10 @@ The image says it all 🧐
 ### Insights 📊
 
 ![Insights](https://i.imgur.com/Xvh9xbx.jpg)
+
+### Contributors 😃
+
+![contributors](https://contributors-img.web.app/image?repo=Akash1362000/Ghost-Filter)
 
 ### License ✍
 
