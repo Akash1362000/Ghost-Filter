@@ -10,15 +10,18 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAkash1362000%2FGhost-Filter%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+---
 ### Checkout the live filter on Instagram [here](https://www.instagram.com/ar/1303042073214700/)! 👻
+---
 
 ### Contents:
 
 - [Demo](#demo-) 🎥
 - [Development](#development-) 👨‍💻
-- Environment Setup 🚀
-- How does this filter work 🤔 ?
-- Demo 🎥
+- [Environment Setup](#environment-setup-) 🚀
+- [How does this filter work](#how-does-this-filter-work-) 🤔 ?
+
+---
 
 ### Development 👨‍💻
 
