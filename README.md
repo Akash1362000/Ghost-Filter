@@ -53,7 +53,7 @@ The image says it all 🧐
 
 ### Insights 📊
 
-[Insights](https://i.imgur.com/Xvh9xbx.jpg)
+![Insights](https://i.imgur.com/Xvh9xbx.jpg)
 
 ### License ✍
 
