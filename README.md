@@ -25,3 +25,9 @@
 - Go to the location where you cloned this repository and Open the file **Ghost.arproj**
 
 - Yay 🕺 You've successfully setup the environment!
+
+### How does this filter work 🤔 ?
+
+The image says it all 🧐
+
+![Patch Editor](https://i.imgur.com/NXE9eCO.jpg)
