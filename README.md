@@ -22,7 +22,7 @@
 - [Development](#development-) 👨‍💻
 - [Environment Setup](#environment-setup-) 🚀
 - [How does this filter work ?](#how-does-this-filter-work-?-) 🤔
-- [Insights](#insights-)
+- [Insights](#insights-) 📊
 - [License](#license-) ✍
 
 ---
