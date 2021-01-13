@@ -37,7 +37,7 @@
 
 - Yay 🕺 You've successfully setup the environment!
 
-### How does this filter work 🤔 ?
+### How does this filter work ? 🤔
 
 The image says it all 🧐
 
