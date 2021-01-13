@@ -22,6 +22,7 @@
 - [Development](#development-) 👨‍💻
 - [Environment Setup](#environment-setup-) 🚀
 - [How does this filter work ?](#how-does-this-filter-work-?-) 🤔
+- [Insights](#insights-)
 - [License](#license-) ✍
 
 ---
@@ -49,6 +50,10 @@
 The image says it all 🧐
 
 ![Patch Editor](https://i.imgur.com/NXE9eCO.jpg)
+
+### Insights 📊
+
+[Insights](https://i.imgur.com/Xvh9xbx.jpg)
 
 ### License ✍
 
