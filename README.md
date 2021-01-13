@@ -14,11 +14,14 @@
 
 ## Development 👨‍💻
 
-Note: Make sure you have Spark AR Studio v90 or above. If you don't have Spark AR Studio, download it from [here](https://sparkar.facebook.com/ar-studio/download/)!
+**Note**: Make sure you have Spark AR Studio v90 or above. If you don't have Spark AR Studio, download it from [here](https://sparkar.facebook.com/ar-studio/download/)!
 
-Environment Setup 🚀
+### Environment Setup 🚀
 
-`$ git clone https://github.com/Akash1362000/Ghost-Filter.git`
+- `$ git clone https://github.com/Akash1362000/Ghost-Filter.git`
 
-`$ cd Ghost-Filter/`
+- Open Spark AR Studio and click on **Open**
 
+- Go to the location where you cloned this repository and Open the file **Ghost.arproj**
+
+- Yay 🕺 You've successfully setup the environment!
