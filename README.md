@@ -23,6 +23,10 @@
 
 ---
 
+### Demo 👻
+
+![Ghost Effect](https://i.imgur.com/vgVaVam.gif)
+
 ### Development 👨‍💻
 
 **Note**: Make sure you have Spark AR Studio v90 or above. If you don't have Spark AR Studio, download it from [here](https://sparkar.facebook.com/ar-studio/download/)!
