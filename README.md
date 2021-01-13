@@ -19,7 +19,7 @@
 - [Demo](#demo-) 🎥
 - [Development](#development-) 👨‍💻
 - [Environment Setup](#environment-setup-) 🚀
-- [How does this filter work ?](#how-does-this-filter-work-) 🤔
+- [How does this filter work ?](#how-does-this-filter-work-?-) 🤔
 
 ---
 
