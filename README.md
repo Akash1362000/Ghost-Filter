@@ -16,14 +16,14 @@
 
 ### Contents:
 
-- [Demo](#demo-) 🎥
+- [Preview](#preview-) 🎥
 - [Development](#development-) 👨‍💻
 - [Environment Setup](#environment-setup-) 🚀
 - [How does this filter work ?](#how-does-this-filter-work-?-) 🤔
 
 ---
 
-### Demo 👻
+### Preview 👻
 
 ![Ghost Effect](https://i.imgur.com/xT1WPZV.jpg)
 
